@@ -151,3 +151,8 @@
     color: #FFF;
     border-color: #FFF;
 }
+    .coffee-bkg {
+    background-image: url(../assets/img/coffee-bkg.jpg);
+    background-size: cover;
+    background-position: center;
+}
