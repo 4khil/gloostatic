@@ -13,6 +13,9 @@
 .scrolling-wrapper {
   overflow-x: auto;
 }
+ul {
+  list-style-image: url('../assets/img/reward-ol.png');
+}
 .card-title {
     margin-bottom: 0.75rem;
     font-size: 12px;
