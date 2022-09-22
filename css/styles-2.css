@@ -1,3 +1,20 @@
+                .maker-card{
+                    border: 2px solid black;
+                    border-radius: 6px;
+                    padding-top: 0.5rem;
+                    padding-bottom: 0.5rem;
+                    margin-top: 0.5rem;
+                }
+
+.spacer {
+    margin-top: 1rem;
+}
+
+.fitsit {
+     margin-left: 0px !important; 
+     margin-right: 0px !important;
+}
+
  .ideas {
              display: flex;
             flex-direction: row;
@@ -21,10 +38,14 @@
 
         }
 
+        .poppins {
+            font-family: 'Poppins', sans-serif;
+        }
+
     .idea-title {
 
-        font-size: 16px;
-        font-family: 'Poppins';
+        font-size: 12px;
+        font-family: 'Poppins', sans-serif;
         font-weight: 500;
         font-kerning: normal;
     }
@@ -33,7 +54,7 @@
 
         font-size: 13px;
         margin-top: 20px;
-        font-family: 'Poppins';
+        font-family: 'Poppins', sans-serif;
         font-weight: 400;
         font-kerning: normal;
     }
@@ -63,6 +84,7 @@
 
         font-size: 20px;
         font-weight: 700;
+        font-family: 'Poppins', sans-serif;
 
     }
     .posted-by {
@@ -78,7 +100,7 @@
         font-size: 12px;
         padding: 10px;
         margin-bottom: 15px;
-        font-family: 'Poppins';
+        font-family: 'Poppins', sans-serif;
     }
     .question-meta {
         display: flex;
