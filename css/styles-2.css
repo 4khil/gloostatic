@@ -13,6 +13,31 @@
 .scrolling-wrapper {
   overflow-x: auto;
 }
+.card-title {
+    margin-bottom: 0.75rem;
+    font-size: 12px;
+}
+
+h6.card-subtitle.mb-2.text-muted {
+    font-size: 12px;
+}
+.cardsectionbk{
+    background-color: #ce3d66;
+    border-top: 5px solid pink;
+}
+
+p.card-text {
+    font-size: 12px;
+}
+
+.ideas .card {
+    background-color: #FFF59D !important;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 1rem;
+    margin-left: 0.5rem;
+    width: 65%;
+}
 
 .fitsit {
      margin-left: 0px !important; 
